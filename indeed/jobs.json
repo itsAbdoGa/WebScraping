@@ -1,0 +1,18 @@
+[
+{"company": "EZ-AD TV", "title": "Frontend Developer (Vue.js)", "rating": "4.6", "location": "Remote", "salary": "None", "type": "None"},
+{"company": "Aleph", "title": "Senior Backend Engineer, AI", "rating": "4.7", "location": "Remote", "salary": "$70,000 - $220,000 a year", "type": "Fulltime"},
+{"company": "Best Egg", "title": "Software Engineer II, Backend", "rating": "3.8", "location": "Remote", "salary": "$75,000 - $85,000 a year", "type": "Fulltime"},
+{"company": "Sapiens Development", "title": "Front End Developer", "rating": "None", "location": "Remote", "salary": "None", "type": "Fulltime"},
+{"company": "HirexHire", "title": "Senior Backend Engineer (Remote)", "rating": "None", "location": "Chicago, IL 60007•Remote", "salary": "None", "type": "Fulltime"},
+{"company": "Coinbase", "title": "Staff Software Engineer, Backend (Institutional - Markets)", "rating": "3.9", "location": "Remote", "salary": "$211,650 - $249,000 a year", "type": "Fulltime"},
+{"company": "EX2 Outcoding", "title": "Mid Node.js Developer", "rating": "None", "location": "Remote", "salary": "None", "type": "Fulltime"},
+{"company": "None", "title": "Senior Backend Engineer", "rating": "None", "location": "Remote", "salary": "None", "type": "Fulltime"},
+{"company": "Hopper", "title": "Senior Software Engineer, Backend - Fintech Ancillaries", "rating": "3.1", "location": "Remote", "salary": "None", "type": "Fulltime"},
+{"company": "Coinbase", "title": "Software Engineer, Backend (Trust and Loyalty)", "rating": "3.9", "location": "Remote", "salary": "$147,000 - $174,000 a year", "type": "Fulltime"},
+{"company": "Kitrum", "title": "Senior FullStack(.NET/PowerApps) Engineer", "rating": "None", "location": "Remote", "salary": "None", "type": "None"},
+{"company": "Ingenovis Health", "title": "Sr. Backend Engineer", "rating": "3.0", "location": "Remote", "salary": "$104,400 - $130,500 a year", "type": "Fulltime"},
+{"company": "Coinbase", "title": "Senior Software Engineer, Infrastructure (Backend Platform)", "rating": "3.9", "location": "Remote", "salary": "$180,625 - $212,000 a year", "type": "Fulltime"},
+{"company": "Coralogix", "title": "Backend Engineer- OpenTelemetry", "rating": "None", "location": "Remote", "salary": "None", "type": "Fulltime"},
+{"company": "Talent Inc.", "title": "Sr. Backend Engineer (Golang)", "rating": "3.4", "location": "Remote", "salary": "None", "type": "None"},
+{"company": "Coralogix", "title": "Backend Engineer- OpenTelemetry", "rating": "None", "location": "None", "salary": "None", "type": "None"}
+]
