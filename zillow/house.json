@@ -1,0 +1,322 @@
+[
+    {
+        "price": 499000,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "sqft": 1152,
+        "address": "106 Samsonville Road, Kerhonkson, NY 12446",
+        "link": "https://www.zillow.com/homedetails/106-Samsonville-Rd-Kerhonkson-NY-12446/32862258_zpid/"
+    },
+    {
+        "price": 99900,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "sqft": 1350,
+        "address": "43 Lawndale Ter, Rochester, NY 14609",
+        "link": "https://www.zillow.com/homedetails/43-Lawndale-Ter-Rochester-NY-14609/30872106_zpid/"
+    },
+    {
+        "price": 699000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sqft": 1189,
+        "address": "817 Woodland Valley Road, Phoenicia, NY 12464",
+        "link": "https://www.zillow.com/homedetails/817-Woodland-Valley-Rd-Shandaken-NY-12464/32872642_zpid/"
+    },
+    {
+        "price": 419900,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1583,
+        "address": "24 David Drive, Glenmont, NY 12077",
+        "link": "https://www.zillow.com/homedetails/24-David-Dr-Glenmont-NY-12077/246198790_zpid/"
+    },
+    {
+        "price": 625000,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "sqft": 1452,
+        "address": "5646 Red Hill Road, Claryville, NY 12725",
+        "link": "https://www.zillow.com/homedetails/5646-Red-Hill-Rd-Denning-NY-12725/32837885_zpid/"
+    },
+    {
+        "price": 238900,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "sqft": 1957,
+        "address": "143 Ensign Ave, Medina, NY 14103",
+        "link": "https://www.zillow.com/homedetails/143-Ensign-Ave-Medina-NY-14103/31649872_zpid/"
+    },
+    {
+        "price": 1340000,
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "sqft": 2884,
+        "address": "365 New Rochelle Road, Bronxville, NY 10708",
+        "link": "https://www.zillow.com/homedetails/365-New-Rochelle-Rd-Bronxville-NY-10708/33017394_zpid/"
+    },
+    {
+        "price": 515000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sqft": 1250,
+        "address": "1143 Sawkill Road, Kingston, NY 12401",
+        "link": "https://www.zillow.com/homedetails/1143-Sawkill-Rd-Kingston-NY-12401/32845743_zpid/"
+    },
+    {
+        "price": 419900,
+        "bedrooms": 3,
+        "bathrooms": 4,
+        "sqft": 2020,
+        "address": "47 Ridgefield Drive, Voorheesville, NY 12186",
+        "link": "https://www.zillow.com/homedetails/47-Ridgefield-Dr-Voorheesville-NY-12186/29710632_zpid/"
+    },
+    {
+        "price": 269900,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1996,
+        "address": "710 W Cedar St, Rome, NY 13440",
+        "link": "https://www.zillow.com/homedetails/710-W-Cedar-St-Rome-NY-13440/31555182_zpid/"
+    },
+    {
+        "price": 165000,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "sqft": 1236,
+        "address": "1867 Whiskey Hill Rd, Waterloo, NY 13165",
+        "link": "https://www.zillow.com/homedetails/1867-Whiskey-Hill-Rd-Waterloo-NY-13165/32516577_zpid/"
+    },
+    {
+        "price": 175000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1626,
+        "address": "2524 County Route 176, Fulton, NY 13069",
+        "link": "https://www.zillow.com/homedetails/2524-County-Route-176-Fulton-NY-13069/53789228_zpid/"
+    },
+    {
+        "price": 159900,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "sqft": 1428,
+        "address": "207 Fetzner Rd, Rochester, NY 14626",
+        "link": "https://www.zillow.com/homedetails/207-Fetzner-Rd-Rochester-NY-14626/30949394_zpid/"
+    },
+    {
+        "price": 465000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": "N/A",
+        "address": "8 Quogue Drive, Sound Beach, NY 11789",
+        "link": "https://www.zillow.com/homedetails/8-Quogue-Dr-Sound-Beach-NY-11789/59315407_zpid/"
+    },
+    {
+        "price": 500000,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "sqft": 3000,
+        "address": "94 Waterford Way, Fairport, NY 14450",
+        "link": "https://www.zillow.com/homedetails/94-Waterford-Way-Fairport-NY-14450/31017930_zpid/"
+    },
+    {
+        "price": 229900,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1232,
+        "address": "177 Westgate Rd, Buffalo, NY 14217",
+        "link": "https://www.zillow.com/homedetails/177-Westgate-Rd-Buffalo-NY-14217/30378855_zpid/"
+    },
+    {
+        "price": 629999,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "sqft": "N/A",
+        "address": "2700 Bayview Avenue, Wantagh, NY 11793",
+        "link": "https://www.zillow.com/homedetails/2700-Bayview-Ave-Wantagh-NY-11793/31421591_zpid/"
+    },
+    {
+        "price": 199900,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "sqft": 1730,
+        "address": "9 Sahara Dr, Rochester, NY 14624",
+        "link": "https://www.zillow.com/homedetails/9-Sahara-Dr-Rochester-NY-14624/30922332_zpid/"
+    },
+    {
+        "price": 150000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 929,
+        "address": "185 Lasalle Ave, Kenmore, NY 14217",
+        "link": "https://www.zillow.com/homedetails/185-Lasalle-Ave-Kenmore-NY-14217/30380247_zpid/"
+    },
+    {
+        "price": 249900,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "sqft": 1588,
+        "address": "6234 New Taylor Rd, Orchard Park, NY 14127",
+        "link": "https://www.zillow.com/homedetails/6234-New-Taylor-Rd-Orchard-Park-NY-14127/30370832_zpid/"
+    },
+    {
+        "price": 550000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1675,
+        "address": "61 Dogwood Road, Cortlandt Manor, NY 10567",
+        "link": "https://www.zillow.com/homedetails/61-Dogwood-Rd-Cortlandt-Manor-NY-10567/58411967_zpid/"
+    },
+    {
+        "price": 544000,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "sqft": "N/A",
+        "address": "1028 Herzel Boulevard, West Babylon, NY 11704",
+        "link": "https://www.zillow.com/homedetails/1028-Herzel-Blvd-West-Babylon-NY-11704/32628021_zpid/"
+    },
+    {
+        "price": 299900,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1701,
+        "address": "806 Ivy Ct, Webster, NY 14580",
+        "link": "https://www.zillow.com/homedetails/806-Ivy-Ct-Webster-NY-14580/31048692_zpid/"
+    },
+    {
+        "price": 499000,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "sqft": "N/A",
+        "address": "156 Vermont Avenue, Bay Shore, NY 11706",
+        "link": "https://www.zillow.com/homedetails/156-Vermont-Ave-Bay-Shore-NY-11706/59628270_zpid/"
+    },
+    {
+        "price": 599900,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1181,
+        "address": "48 Fairfield Street, Valley Stream, NY 11581",
+        "link": "https://www.zillow.com/homedetails/48-Fairfield-St-Valley-Stream-NY-11581/31255509_zpid/"
+    },
+    {
+        "price": 269900,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sqft": 1358,
+        "address": "211 Allendale Rd, West Seneca, NY 14224",
+        "link": "https://www.zillow.com/homedetails/211-Allendale-Rd-West-Seneca-NY-14224/30414087_zpid/"
+    },
+    {
+        "price": 320000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1176,
+        "address": "153 Berkshire Boulevard, Albany, NY 12203",
+        "link": "https://www.zillow.com/homedetails/153-Berkshire-Blvd-Albany-NY-12203/29641075_zpid/"
+    },
+    {
+        "price": 379900,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "sqft": 2542,
+        "address": "4662 Post Rd, Manlius, NY 13104",
+        "link": "https://www.zillow.com/homedetails/4662-Post-Rd-Manlius-NY-13104/31747280_zpid/"
+    },
+    {
+        "price": 695000,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "sqft": 1757,
+        "address": "2540 Seminole Avenue, Seaford, NY 11783",
+        "link": "https://www.zillow.com/homedetails/2540-Seminole-Ave-Seaford-NY-11783/31423808_zpid/"
+    },
+    {
+        "price": 199999,
+        "bedrooms": "Studio",
+        "bathrooms": 1,
+        "sqft": "N/A",
+        "address": "10 Station Sq APT R34, Forest Hills, NY 11375",
+        "link": "https://www.zillow.com/homedetails/10-Station-Sq-APT-R34-Forest-Hills-NY-11375/82786944_zpid/"
+    },
+    {
+        "price": 799900,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "sqft": 1700,
+        "address": "72 Sand Ln, Staten Island, NY 10305",
+        "link": "https://www.zillow.com/homedetails/72-Sand-Ln-Staten-Island-NY-10305/32325457_zpid/"
+    },
+    {
+        "price": 185000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1121,
+        "address": "9459 Lehigh St, Angola, NY 14006",
+        "link": "https://www.zillow.com/homedetails/9459-Lehigh-St-Angola-NY-14006/30326985_zpid/"
+    },
+    {
+        "price": 199900,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sqft": 1209,
+        "address": "2340 Highland Ave, Rochester, NY 14610",
+        "link": "https://www.zillow.com/homedetails/2340-Highland-Ave-Rochester-NY-14610/30892873_zpid/"
+    },
+    {
+        "price": 169900,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "sqft": 1327,
+        "address": "66 Glenview Ln, Rochester, NY 14609",
+        "link": "https://www.zillow.com/homedetails/66-Glenview-Ln-Rochester-NY-14609/30983000_zpid/"
+    },
+    {
+        "price": 389900,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1511,
+        "address": "2 Canterbury Court, Albany, NY 12205",
+        "link": "https://www.zillow.com/homedetails/2-Canterbury-Ct-Albany-NY-12205/29690025_zpid/"
+    },
+    {
+        "price": 699000,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "sqft": "N/A",
+        "address": "93 Eastgate Road, Massapequa Park, NY 11762",
+        "link": "https://www.zillow.com/homedetails/93-Eastgate-Rd-Massapequa-Park-NY-11762/31314099_zpid/"
+    },
+    {
+        "price": 735000,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "sqft": 1701,
+        "address": "80 Overlook Road N, White Plains, NY 10603",
+        "link": "https://www.zillow.com/homedetails/80-Overlook-Rd-N-White-Plains-NY-10603/33070963_zpid/"
+    },
+    {
+        "price": 299000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1080,
+        "address": "2810 Hall Rd, Elma, NY 14086",
+        "link": "https://www.zillow.com/homedetails/2810-Hall-Rd-Elma-NY-14086/63881217_zpid/"
+    },
+    {
+        "price": 599888,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "sqft": 1853,
+        "address": "97 Simonson Ave, Staten Island, NY 10303",
+        "link": "https://www.zillow.com/homedetails/97-Simonson-Ave-Staten-Island-NY-10303/32298736_zpid/"
+    },
+    {
+        "price": 730000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "sqft": 1926,
+        "address": "46 Ward Avenue, Mount Kisco, NY 10549",
+        "link": "https://www.zillow.com/homedetails/46-Ward-Ave-Mount-Kisco-NY-10549/33106135_zpid/"
+    }
+]
